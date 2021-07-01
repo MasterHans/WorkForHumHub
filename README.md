@@ -2,4 +2,4 @@
 ## open source социальной сеть humhub.com
 
 Описание структуры каталогов:
-1)  (авторизация на humhub через аккаунт facebook)ModuleAuthFacebook
+1) ModuleAuthFacebook (авторизация на humhub через аккаунт facebook)
